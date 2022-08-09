@@ -46,6 +46,6 @@ var date2 = new DateTime(2023, 1, 1);
 Console.WriteLine("To New Year left :" + (date2-currentDate));
 Console.WriteLine("From New Year days : " + (currentDate - date1));
 
-
+//checked
 
 
